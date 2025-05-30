@@ -3,7 +3,6 @@
 
 Web Scraping utilizando puppeterr y node.js
 
-
 ## Documentation
 
 [puppeteer](https://pptr.dev/)
